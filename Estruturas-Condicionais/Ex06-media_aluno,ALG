@@ -1,0 +1,28 @@
+Algoritmo "NOTAS"
+                 //6. Escreva um programa que leia do teclado as duas notas de um aluno, calcule e exiba a média
+                 //aritmética das notas. O programa deve, adicionalmente, exibir uma mensagem de parabéns
+                 //caso o aluno esteja aprovado (média superior ou igual a 6,0), média até 4,0, o aluno está em
+                 //recuperação, caso a média seja inferior a 4,0 o aluno será reprovado.
+
+Var
+   primeiraNota, segundaNota, media: real
+
+Inicio
+   escreval("Informe as duas notas: ")
+   leia(primeiraNota, segundaNota)
+
+   media <- (primeiraNota + segundaNota)/2
+
+   limpatela
+   escreval("Sua média foi: ",media)
+   se (media >= 6) entao
+      escreval("Parabéns, você foi aprovado!")
+   senao
+      se (media >= 4) entao
+         escreval("Você está de recuperação")
+      senao
+         escreval("Você está reprovado")
+      fimse
+   fimse
+
+Fimalgoritmo
