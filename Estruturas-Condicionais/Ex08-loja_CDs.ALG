@@ -1,4 +1,4 @@
-Algoritmo "CDs"
+Algoritmo "loja_CDs"
                //8. Em uma loja de CD ́s existem apenas quatro tipos de preços que estão associados a cores.
                //Assim os CDs que ficam na loja não são marcados por preços e sim por cores. Desenvolva o
                //algoritmo que a partir da entrada da cor o software mostre o preço. A loja está atualmente com a
