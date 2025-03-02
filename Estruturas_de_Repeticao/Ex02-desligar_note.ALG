@@ -1,6 +1,7 @@
 Algoritmo "desligar_note"
                     //2. Escreva um algoritmo que oriente o usuário passo a passo para desligar um notebook. 
                     //O algoritmo deve verificar se cada ação foi realizada corretamente.
+
 Var
    resp: caractere
 
