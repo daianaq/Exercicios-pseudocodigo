@@ -1,6 +1,6 @@
 Algoritmo "tabuada"
 
-                      //Escreva um algoritmo que leia um número do usuário e exiba uma tabela de multiplicação desse número.
+                      //1. Escreva um algoritmo que leia um número do usuário e exiba uma tabela de multiplicação desse número.
                       //Utilize um laço de repetição para realizar os cálculos e exibir o resultado.
 Var
 
