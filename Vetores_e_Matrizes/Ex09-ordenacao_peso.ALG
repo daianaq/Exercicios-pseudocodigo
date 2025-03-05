@@ -1,5 +1,5 @@
 Algoritmo "ordenacao_peso"
-                      //Elabore um algoritmo que leia o nome e o peso de 5 pessoas e armazene essas informações
+                      //9. Elabore um algoritmo que leia o nome e o peso de 5 pessoas e armazene essas informações
                       //em dois vetores distintos. Em seguida, o algoritmo deve ordenar e mostrar as pessoas de acordo  
                       //com o peso de forma crescente.
 
