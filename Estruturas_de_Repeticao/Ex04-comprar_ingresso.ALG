@@ -1,5 +1,5 @@
 Algoritmo "comprar_ingresso"
-                          4. Desenvolva um algoritmo para simular o processo de compra de ingressos para o cinema.
+                          //4. Desenvolva um algoritmo para simular o processo de compra de ingressos para o cinema.
 
 Var
    guicheLivre, filme, horariosDisp, ingressosDisp: caractere
