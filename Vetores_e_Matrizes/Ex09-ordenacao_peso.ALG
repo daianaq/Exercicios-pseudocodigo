@@ -12,15 +12,15 @@ Var
 
 Inicio
 
-   para i de 0 ate 4 faça
+   para i de 0 ate 4 faca
       escreva("Informe o nome:")
       leia(nomes[i])
       escreva("Informe o peso:")
       leia(pesos[i])
    fimpara
 
-   para i de 0 até 4 faça
-      para j de i+1 ate 4 faça
+   para i de 0 ate 3 faca
+      para j de i+1 ate 4 faca
          se pesos[i] > pesos[j] então
             tempNome <- nomes[i]
             tempPeso <- pesos[i]
@@ -34,7 +34,7 @@ Inicio
 
    escreval("")
    escreval("Lista ordenada por peso(crescente):")
-   para i de 0 até 4 faça
+   para i de 0 ate 4 faca
       escreval("Nome: ", nomes[i], " - Peso: ", pesos[i] ,".")
    fimpara
 
