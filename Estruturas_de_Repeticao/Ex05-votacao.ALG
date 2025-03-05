@@ -2,6 +2,7 @@ Algoritmo "votacao"
               //5.Crie um algoritmo para simular um sistema de votação. O sistema deve permitir que os candidatos 
               //votem em um dos candidatos ou escolham votar em branco ou nulo. A votação continua até que o 
               //usuário digite 0 , momento em que o sistema exibe o resultado da eleição.
+
 Var
    codigo, votosUm, votosDois, votosTres: inteiro
    votosQuatro, votosBrancos, votosNulos: inteiro
