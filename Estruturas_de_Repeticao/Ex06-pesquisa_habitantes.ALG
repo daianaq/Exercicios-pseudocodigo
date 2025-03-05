@@ -1,5 +1,5 @@
 Algoritmo "pesquisa_habitantes"
-                         //Foi feita uma pesquisa entre os 1000 habitantes de uma região para coletar os seguintes dados:
+                         //6. Foi feita uma pesquisa entre os 1000 habitantes de uma região para coletar os seguintes dados:
                          //sexo(0-feminino, 1-masculino), idade e altura. Faça um algoritmo que leia as informações 
                          //coletadas e mostre as seguintes informações: (use o comando repita-até)  
                          //a) média da idade do grupo;
