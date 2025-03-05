@@ -33,7 +33,7 @@ Inicio
    fimpara
 
    escreval("")
-   escreval("Lista ordenada por peso:")
+   escreval("Lista ordenada por peso(crescente):")
    para i de 0 até 4 faça
       escreval("Nome: ", nomes[i], " - Peso: ", pesos[i] ,".")
    fimpara
