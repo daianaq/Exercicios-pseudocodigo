@@ -21,7 +21,7 @@ Inicio
 
    para i de 0 ate 3 faca
       para j de i+1 ate 4 faca
-         se pesos[i] > pesos[j] então
+         se pesos[i] > pesos[j] entao
             tempNome <- nomes[i]
             tempPeso <- pesos[i]
             nomes[i] <- nomes[j]
