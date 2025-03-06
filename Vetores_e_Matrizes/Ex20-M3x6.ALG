@@ -1,5 +1,5 @@
 Algoritmo "M3x6"
-            //Faça um programa que leia uma matriz 3 x 6 com valores reais.
+            //9. Faça um programa que leia uma matriz 3 x 6 com valores reais.
             //1 - Imprima a soma de todos os elementos das colunas ímpares;
             //2 - Imprima a média aritmética dos elementos da segunda e da quarta colunas;
             //3 - Substitua os valores da sexta coluna pela soma dos valores das colunas 1 e 2;
